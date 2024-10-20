@@ -2,7 +2,7 @@
 
 [![K8s](https://img.freepik.com/premium-vector/wheel-helm-container-computer-developer-app-concept-business-digital-open-source-program-data-cod_115739-1959.jpg?size=626&ext=jpg&ga=GA1.1.1086359875.1728680661&semt=ais_hybrid)](https://kubernetes.io/)
 
-Welcome to the **DevOps Directive Kubernetes Course**! This repository is designed to accompany the course, providing essential resources, code samples, and practical exercises to deepen your understanding of Kubernetes and its role in **DevOps** and **Site Reliability Engineering (SRE)**. 🌟
+Welcome to the **Kubernetes Directive: A DevOps Journey**! This repository is designed to accompany the course, providing essential resources, code samples, and practical exercises to deepen your understanding of Kubernetes and its role in **DevOps** and **Site Reliability Engineering (SRE)**. 🌟
 
 ## 👨‍💻 About the Author
 
