@@ -64,6 +64,6 @@ tasks:
   08-delete-namespace:
     desc: "Delete the namespace to clean up"
     cmds:
-      - cmd: gum style "🚨 Deleting the namespace recursively deletes the resources inside of it! 🚨 "
+      - cmd: gum style "🚨 Deleting the namespace recursively deletes the resources inside of it! 🚨"
         silent: true
       - kubectl delete ns external-secrets
